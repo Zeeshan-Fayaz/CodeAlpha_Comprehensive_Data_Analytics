@@ -55,3 +55,11 @@ Seaborn styling and custom layout management.
 📊 Outputs:
 Clean plots for reports or dashboards.
 Visual insight summary saved in amazon_visualization_ready.csv.
+
+Skills Demonstrated
+
+Web Scraping (BeautifulSoup, Requests
+Data Cleaning & Wrangling
+Exploratory Data Analysis (EDA)
+Data Visualization with Matplotlib & Seaborn
+CSV Handling and Reporting in Python

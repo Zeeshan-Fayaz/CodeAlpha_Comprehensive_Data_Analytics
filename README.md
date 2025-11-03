@@ -3,7 +3,7 @@ Mohammad Zeeshan
 
 📧 fayaz.zeeshan26@gmail.com
 
-🔗 LinkedIn/in/zeeshan-fayaz
+🔗 https://www.linkedin.com/in/zeeshan-fayaz
 
 Amazon Product Data Projects
 This repository contains three major Python data projects based on real-world Amazon product data.
